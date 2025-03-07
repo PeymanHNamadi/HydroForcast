@@ -1,0 +1,24 @@
+=== MODEL REFERENCE GUIDE ===
+
+Standard Month Weight Configurations:
+  uniform → Uniform Weights [1,1,1,1,1,1,1,1,1]
+  front_loaded → Front Loaded [3,2.5,2,1.5,1,0.8,0.6,0.5,0.5]
+  back_loaded → Back Loaded [0.5,0.5,0.6,0.8,1,1.5,2,2.5,3]
+  middle_emphasis → Middle Emphasis [0.8,1,1.5,2,2.5,2,1.5,1,0.8]
+  bimodal → Bimodal [2,1.5,1,0.8,0.8,0.8,1,1.5,2]
+  spring_emphasis → Spring Emphasis [1,1,2.5,2.5,2.5,1,1,1,1]
+  summer_emphasis → Summer Emphasis [1,1,1,1,1,2.5,2.5,2.5,1]
+  winter_emphasis → Winter Emphasis [2.5,2.5,1,1,1,1,1,1,2.5]
+  current_standard → Standard Weights [2,2,2,1.5,1.5,1,1,1,1]
+  current_amplified → Amplified Weights [3,3,3,2,2,1,1,1,1]
+  current_moderated → Moderated Weights [1.5,1.5,1.5,1.25,1.25,1,1,1,1]
+
+Standard Architecture Configurations:
+  lstm_h3_64_32_16_a0.1_b0.1_1943_2021 → 3-Layer LSTM [64,32,16]
+  lstm_h3_32_16_8_a0.1_b0.1_1943_2021 → 3-Layer LSTM [32,16,8]
+  lstm_h3_16_8_4_a0.1_b0.1_1943_2021 → 3-Layer LSTM [16,8,4]
+  lstm_h3_8_4_2_a0.1_b0.1_1943_2021 → 3-Layer LSTM [8,4,2]
+  lstm_h2_32_16_a0.1_b0.1_1943_2021 → 2-Layer LSTM [32,16]
+  lstm_h2_16_8_a0.1_b0.1_1943_2021 → 2-Layer LSTM [16,8]
+  lstm_h2_8_4_a0.1_b0.1_1943_2021 → 2-Layer LSTM [8,4]
+  lstm_h2_4_2_a0.1_b0.1_1943_2021 → 2-Layer LSTM [4,2]

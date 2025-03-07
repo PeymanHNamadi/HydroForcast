@@ -1,0 +1,8 @@
+Model,Count,Percentage
+MSO,7,35.0
+"2-Layer LSTM [32,16]",5,25.0
+"2-Layer LSTM [16,8]",4,20.0
+"3-Layer LSTM [16,8,4]",1,5.0
+"3-Layer LSTM [32,16,8]",1,5.0
+"3-Layer LSTM [64,32,16]",1,5.0
+"3-Layer LSTM [8,4,2]",1,5.0

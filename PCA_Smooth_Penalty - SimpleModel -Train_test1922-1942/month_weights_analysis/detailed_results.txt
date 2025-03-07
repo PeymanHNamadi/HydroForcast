@@ -1,0 +1,33 @@
+=== MONTH WEIGHTS CONFIGURATION ANALYSIS ===
+
+Test Period: 1923-1942
+Models Analyzed: 11
+
+=== BEST CONFIGURATION BY YEAR ===
+
+Year 1923: MSO (Config: MSO, MAE: 191.86)
+Year 1924: MSO (Config: MSO, MAE: 138.51)
+Year 1925: MSO (Config: MSO, MAE: 108.03)
+Year 1926: MSO (Config: MSO, MAE: 124.46)
+Year 1927: MSO (Config: MSO, MAE: 159.06)
+Year 1928: MSO (Config: MSO, MAE: 186.27)
+Year 1929: MSO (Config: MSO, MAE: 161.37)
+Year 1930: MSO (Config: MSO, MAE: 55.18)
+Year 1931: MSO (Config: MSO, MAE: 131.75)
+Year 1932: MSO (Config: MSO, MAE: 100.65)
+Year 1933: MSO (Config: MSO, MAE: 100.29)
+Year 1934: MSO (Config: MSO, MAE: 178.02)
+Year 1935: MSO (Config: MSO, MAE: 226.97)
+Year 1936: MSO (Config: MSO, MAE: 133.18)
+Year 1937: MSO (Config: MSO, MAE: 144.20)
+Year 1938: MSO (Config: MSO, MAE: 361.46)
+Year 1939: MSO (Config: MSO, MAE: 148.01)
+Year 1940: MSO (Config: MSO, MAE: 328.35)
+Year 1941: MSO (Config: MSO, MAE: 114.40)
+Year 1942: MSO (Config: MSO, MAE: 189.02)
+
+=== CONFIGURATION PERFORMANCE SUMMARY ===
+
+MSO: 20 years (100.0%)
+  Won in years: 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942
+

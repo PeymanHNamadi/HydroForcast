@@ -1,0 +1,192 @@
+Month Weights Configuration Name Mapping:
+
+=== Month Weight Configurations ===
+uniform: [1, 1, 1, 1, 1, 1, 1, 1, 1]
+front_loaded: [3, 2.5, 2, 1.5, 1, 0.8, 0.6, 0.5, 0.5]
+back_loaded: [0.5, 0.5, 0.6, 0.8, 1, 1.5, 2, 2.5, 3]
+middle_emphasis: [0.8, 1, 1.5, 2, 2.5, 2, 1.5, 1, 0.8]
+bimodal: [2, 1.5, 1, 0.8, 0.8, 0.8, 1, 1.5, 2]
+spring_emphasis: [1, 1, 2.5, 2.5, 2.5, 1, 1, 1, 1]
+summer_emphasis: [1, 1, 1, 1, 1, 2.5, 2.5, 2.5, 1]
+winter_emphasis: [2.5, 2.5, 1, 1, 1, 1, 1, 1, 2.5]
+current_standard: [2, 2, 2, 1.5, 1.5, 1, 1, 1, 1]
+current_amplified: [3, 3, 3, 2, 2, 1, 1, 1, 1]
+current_moderated: [1.5, 1.5, 1.5, 1.25, 1.25, 1, 1, 1, 1]
+
+=== File Mappings ===
+File: month_weights_forecasts/forecasts_uniform.csv
+Config: uniform
+Display: Uniform [1,1,1,1,1,1,1,1,1]
+
+File: month_weights_forecasts/forecasts_front_loaded.csv
+Config: front_loaded
+Display: Front Loaded [3,2.5,2,1.5,1,0.8,0.6,0.5,0.5]
+
+File: month_weights_forecasts/forecasts_back_loaded.csv
+Config: back_loaded
+Display: Back Loaded [0.5,0.5,0.6,0.8,1,1.5,2,2.5,3]
+
+File: month_weights_forecasts/forecasts_middle_emphasis.csv
+Config: middle_emphasis
+Display: Middle Emphasis [0.8,1,1.5,2,2.5,2,1.5,1,0.8]
+
+File: month_weights_forecasts/forecasts_bimodal.csv
+Config: bimodal
+Display: Bimodal [2,1.5,1,0.8,0.8,0.8,1,1.5,2]
+
+File: month_weights_forecasts/forecasts_spring_emphasis.csv
+Config: spring_emphasis
+Display: Spring Emphasis [1,1,2.5,2.5,2.5,1,1,1,1]
+
+File: month_weights_forecasts/forecasts_summer_emphasis.csv
+Config: summer_emphasis
+Display: Summer Emphasis [1,1,1,1,1,2.5,2.5,2.5,1]
+
+File: month_weights_forecasts/forecasts_winter_emphasis.csv
+Config: winter_emphasis
+Display: Winter Emphasis [2.5,2.5,1,1,1,1,1,1,2.5]
+
+File: month_weights_forecasts/forecasts_current_standard.csv
+Config: current_standard
+Display: Standard [2,2,2,1.5,1.5,1,1,1,1]
+
+File: month_weights_forecasts/forecasts_current_amplified.csv
+Config: current_amplified
+Display: Amplified [3,3,3,2,2,1,1,1,1]
+
+File: month_weights_forecasts/forecasts_current_moderated.csv
+Config: current_moderated
+Display: Moderated [1.5,1.5,1.5,1.25,1.25,1,1,1,1]
+
+File: month_weights_search/forecasts_uniform.csv
+Config: uniform
+Display: Uniform [1,1,1,1,1,1,1,1,1]
+
+File: month_weights_search/forecasts_front_loaded.csv
+Config: front_loaded
+Display: Front Loaded [3,2.5,2,1.5,1,0.8,0.6,0.5,0.5]
+
+File: month_weights_search/forecasts_back_loaded.csv
+Config: back_loaded
+Display: Back Loaded [0.5,0.5,0.6,0.8,1,1.5,2,2.5,3]
+
+File: month_weights_search/forecasts_middle_emphasis.csv
+Config: middle_emphasis
+Display: Middle Emphasis [0.8,1,1.5,2,2.5,2,1.5,1,0.8]
+
+File: month_weights_search/forecasts_bimodal.csv
+Config: bimodal
+Display: Bimodal [2,1.5,1,0.8,0.8,0.8,1,1.5,2]
+
+File: month_weights_search/forecasts_spring_emphasis.csv
+Config: spring_emphasis
+Display: Spring Emphasis [1,1,2.5,2.5,2.5,1,1,1,1]
+
+File: month_weights_search/forecasts_summer_emphasis.csv
+Config: summer_emphasis
+Display: Summer Emphasis [1,1,1,1,1,2.5,2.5,2.5,1]
+
+File: month_weights_search/forecasts_winter_emphasis.csv
+Config: winter_emphasis
+Display: Winter Emphasis [2.5,2.5,1,1,1,1,1,1,2.5]
+
+File: month_weights_search/forecasts_current_standard.csv
+Config: current_standard
+Display: Standard [2,2,2,1.5,1.5,1,1,1,1]
+
+File: month_weights_search/forecasts_current_amplified.csv
+Config: current_amplified
+Display: Amplified [3,3,3,2,2,1,1,1,1]
+
+File: month_weights_search/forecasts_current_moderated.csv
+Config: current_moderated
+Display: Moderated [1.5,1.5,1.5,1.25,1.25,1,1,1,1]
+
+File: month_weights_forecasts\forecasts_back_loaded.csv
+Config: back_loaded
+Display: Back Loaded [0.5,0.5,0.6,0.8,1,1.5,2,2.5,3]
+
+File: month_weights_forecasts\forecasts_bimodal.csv
+Config: bimodal
+Display: Bimodal [2,1.5,1,0.8,0.8,0.8,1,1.5,2]
+
+File: month_weights_forecasts\forecasts_current_amplified.csv
+Config: current_amplified
+Display: Amplified [3,3,3,2,2,1,1,1,1]
+
+File: month_weights_forecasts\forecasts_current_moderated.csv
+Config: current_moderated
+Display: Moderated [1.5,1.5,1.5,1.25,1.25,1,1,1,1]
+
+File: month_weights_forecasts\forecasts_current_standard.csv
+Config: current_standard
+Display: Standard [2,2,2,1.5,1.5,1,1,1,1]
+
+File: month_weights_forecasts\forecasts_front_loaded.csv
+Config: front_loaded
+Display: Front Loaded [3,2.5,2,1.5,1,0.8,0.6,0.5,0.5]
+
+File: month_weights_forecasts\forecasts_middle_emphasis.csv
+Config: middle_emphasis
+Display: Middle Emphasis [0.8,1,1.5,2,2.5,2,1.5,1,0.8]
+
+File: month_weights_forecasts\forecasts_spring_emphasis.csv
+Config: spring_emphasis
+Display: Spring Emphasis [1,1,2.5,2.5,2.5,1,1,1,1]
+
+File: month_weights_forecasts\forecasts_summer_emphasis.csv
+Config: summer_emphasis
+Display: Summer Emphasis [1,1,1,1,1,2.5,2.5,2.5,1]
+
+File: month_weights_forecasts\forecasts_uniform.csv
+Config: uniform
+Display: Uniform [1,1,1,1,1,1,1,1,1]
+
+File: month_weights_forecasts\forecasts_winter_emphasis.csv
+Config: winter_emphasis
+Display: Winter Emphasis [2.5,2.5,1,1,1,1,1,1,2.5]
+
+File: month_weights_search\forecasts_back_loaded.csv
+Config: back_loaded
+Display: Back Loaded [0.5,0.5,0.6,0.8,1,1.5,2,2.5,3]
+
+File: month_weights_search\forecasts_bimodal.csv
+Config: bimodal
+Display: Bimodal [2,1.5,1,0.8,0.8,0.8,1,1.5,2]
+
+File: month_weights_search\forecasts_current_amplified.csv
+Config: current_amplified
+Display: Amplified [3,3,3,2,2,1,1,1,1]
+
+File: month_weights_search\forecasts_current_moderated.csv
+Config: current_moderated
+Display: Moderated [1.5,1.5,1.5,1.25,1.25,1,1,1,1]
+
+File: month_weights_search\forecasts_current_standard.csv
+Config: current_standard
+Display: Standard [2,2,2,1.5,1.5,1,1,1,1]
+
+File: month_weights_search\forecasts_front_loaded.csv
+Config: front_loaded
+Display: Front Loaded [3,2.5,2,1.5,1,0.8,0.6,0.5,0.5]
+
+File: month_weights_search\forecasts_middle_emphasis.csv
+Config: middle_emphasis
+Display: Middle Emphasis [0.8,1,1.5,2,2.5,2,1.5,1,0.8]
+
+File: month_weights_search\forecasts_spring_emphasis.csv
+Config: spring_emphasis
+Display: Spring Emphasis [1,1,2.5,2.5,2.5,1,1,1,1]
+
+File: month_weights_search\forecasts_summer_emphasis.csv
+Config: summer_emphasis
+Display: Summer Emphasis [1,1,1,1,1,2.5,2.5,2.5,1]
+
+File: month_weights_search\forecasts_uniform.csv
+Config: uniform
+Display: Uniform [1,1,1,1,1,1,1,1,1]
+
+File: month_weights_search\forecasts_winter_emphasis.csv
+Config: winter_emphasis
+Display: Winter Emphasis [2.5,2.5,1,1,1,1,1,1,2.5]
+

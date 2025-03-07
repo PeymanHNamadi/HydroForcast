@@ -1,0 +1,12 @@
+config_name,month_weights,final_loss,last_10_avg_loss,model_path
+uniform,"[1, 1, 1, 1, 1, 1, 1, 1, 1]",14697.7861328125,17398.6228515625,month_weights_search/lstm_h2_32_16_uniform_1943_2021.keras
+front_loaded,"[3, 2.5, 2, 1.5, 1, 0.8, 0.6, 0.5, 0.5]",18486.3984375,19498.47490234375,month_weights_search/lstm_h2_32_16_front_loaded_1943_2021.keras
+back_loaded,"[0.5, 0.5, 0.6, 0.8, 1, 1.5, 2, 2.5, 3]",12617.947265625,13172.173046875,month_weights_search/lstm_h2_32_16_back_loaded_1943_2021.keras
+middle_emphasis,"[0.8, 1, 1.5, 2, 2.5, 2, 1.5, 1, 0.8]",12865.1171875,12960.250390625,month_weights_search/lstm_h2_32_16_middle_emphasis_1943_2021.keras
+bimodal,"[2, 1.5, 1, 0.8, 0.8, 0.8, 1, 1.5, 2]",12598.431640625,12851.4119140625,month_weights_search/lstm_h2_32_16_bimodal_1943_2021.keras
+spring_emphasis,"[1, 1, 2.5, 2.5, 2.5, 1, 1, 1, 1]",13106.5576171875,13521.1236328125,month_weights_search/lstm_h2_32_16_spring_emphasis_1943_2021.keras
+summer_emphasis,"[1, 1, 1, 1, 1, 2.5, 2.5, 2.5, 1]",12794.427734375,13148.82265625,month_weights_search/lstm_h2_32_16_summer_emphasis_1943_2021.keras
+winter_emphasis,"[2.5, 2.5, 1, 1, 1, 1, 1, 1, 2.5]",16586.939453125,18681.6287109375,month_weights_search/lstm_h2_32_16_winter_emphasis_1943_2021.keras
+current_standard,"[2, 2, 2, 1.5, 1.5, 1, 1, 1, 1]",12715.001953125,12933.1751953125,month_weights_search/lstm_h2_32_16_current_standard_1943_2021.keras
+current_amplified,"[3, 3, 3, 2, 2, 1, 1, 1, 1]",14746.6943359375,16253.1404296875,month_weights_search/lstm_h2_32_16_current_amplified_1943_2021.keras
+current_moderated,"[1.5, 1.5, 1.5, 1.25, 1.25, 1, 1, 1, 1]",18093.912109375,14781.2236328125,month_weights_search/lstm_h2_32_16_current_moderated_1943_2021.keras

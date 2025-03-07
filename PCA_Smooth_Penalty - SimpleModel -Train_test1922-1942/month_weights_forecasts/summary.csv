@@ -1,0 +1,12 @@
+config_name,weights,num_years_forecast,first_year,last_year,forecast_file
+uniform,"[1, 1, 1, 1, 1, 1, 1, 1, 1]",99,1923,2021,month_weights_forecasts/forecasts_uniform.csv
+front_loaded,"[3, 2.5, 2, 1.5, 1, 0.8, 0.6, 0.5, 0.5]",99,1923,2021,month_weights_forecasts/forecasts_front_loaded.csv
+back_loaded,"[0.5, 0.5, 0.6, 0.8, 1, 1.5, 2, 2.5, 3]",99,1923,2021,month_weights_forecasts/forecasts_back_loaded.csv
+middle_emphasis,"[0.8, 1, 1.5, 2, 2.5, 2, 1.5, 1, 0.8]",99,1923,2021,month_weights_forecasts/forecasts_middle_emphasis.csv
+bimodal,"[2, 1.5, 1, 0.8, 0.8, 0.8, 1, 1.5, 2]",99,1923,2021,month_weights_forecasts/forecasts_bimodal.csv
+spring_emphasis,"[1, 1, 2.5, 2.5, 2.5, 1, 1, 1, 1]",99,1923,2021,month_weights_forecasts/forecasts_spring_emphasis.csv
+summer_emphasis,"[1, 1, 1, 1, 1, 2.5, 2.5, 2.5, 1]",99,1923,2021,month_weights_forecasts/forecasts_summer_emphasis.csv
+winter_emphasis,"[2.5, 2.5, 1, 1, 1, 1, 1, 1, 2.5]",99,1923,2021,month_weights_forecasts/forecasts_winter_emphasis.csv
+current_standard,"[2, 2, 2, 1.5, 1.5, 1, 1, 1, 1]",99,1923,2021,month_weights_forecasts/forecasts_current_standard.csv
+current_amplified,"[3, 3, 3, 2, 2, 1, 1, 1, 1]",99,1923,2021,month_weights_forecasts/forecasts_current_amplified.csv
+current_moderated,"[1.5, 1.5, 1.5, 1.25, 1.25, 1, 1, 1, 1]",99,1923,2021,month_weights_forecasts/forecasts_current_moderated.csv
